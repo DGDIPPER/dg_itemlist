@@ -5,6 +5,10 @@ A sleek **Qbox** admin item list command that opens an **ox_lib** menu showing e
 ## Showcase
 https://www.youtube.com/watch?v=prX5Yp1XT8E
 
+![License](https://img.shields.io/github/license/DGDIPPER/dg_itemlist)
+![Framework](https://img.shields.io/badge/framework-Qbox-purple)
+![ox_lib](https://img.shields.io/badge/ox_lib-required-orange)
+
 ## Requirements
 - qbx_core
 - ox_lib
