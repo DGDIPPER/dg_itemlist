@@ -20,8 +20,3 @@ Add this to your `permissions.cfg` (or ACE perms file):
 ```cfg
 add_ace group.admin qbx_itemslist.items allow
 
-## 💬 Support
-Need help or want to report a bug?
-
-Join the Discord: https://discord.gg/wF6gGbSd4K
-
