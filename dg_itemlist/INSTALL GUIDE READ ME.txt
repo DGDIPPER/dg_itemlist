@@ -1,0 +1,8 @@
+Add This to your CFG For Perms
+
+#dg_itemlist Item perms 
+add_ace group.admin qbx_itemslist.items allow
+
+Command TO show menu itemlist
+
+You can Edit The Item size in the Config and more 
