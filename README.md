@@ -1,6 +1,5 @@
 # dg_itemlist
 
-![Release](https://img.shields.io/github/v/release/DGDIPPER/dg_itemlist)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Framework](https://img.shields.io/badge/framework-Qbox-purple)
 ![ox_lib](https://img.shields.io/badge/ox_lib-required-orange)
